@@ -5,6 +5,6 @@ dinner = ["fish", "bread", "kale"]
 dessert = ["cake", "icecream"]
 
 food = [drinks, dinner, dessert]
-#print(food)
+print(food)
 # print specific lists of specific items within a list
-#print(food[0][2])
+print(food[0][2])
