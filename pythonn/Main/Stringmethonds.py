@@ -1,0 +1,11 @@
+name = "Francis"
+#print(len(name))
+#print(name.find("F"))
+#print(name.capitalize())
+#print(name.isdigit())
+#print(name.isalpha())
+#print(name.count("a"))
+#print(name.replace("a", "i"))
+#print(name*4)
+#print(name[:7])
+print(type(name))
